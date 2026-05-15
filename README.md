@@ -99,6 +99,6 @@ http://127.0.0.1:8000/docs
 
 ## Author
 
-Sindhura Metla
+Sindura Metla
 
-GitHub: https://github.com/sindhurametla
+GitHub: https://github.com/sindhurametla/fastapi_sqlalchemy.git
